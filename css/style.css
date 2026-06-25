@@ -32,12 +32,13 @@ main{
     border: 5px solid blueviolet;
 }
 
-section{
+
+/* section{
     margin-bottom: 30px;
-}
+} */
 
 .tag{
-    border: 1px solid #ddd;
+    border: 5px solid #ddd;
     padding: 12px;
     margin: 10px 0;
 }
@@ -48,25 +49,20 @@ pre{
     overflow: auto;
 }
 
-/* #internet{
-   
-} */
 
 .internet-img{
     float: right;
-    width: 680px;
-    height: 400px;
-    margin-right: -30px;
-    margin-top: -30px;
+    width: auto;
+    height: auto;
     border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;    
 }
 
-.internet-img2{
-    float: right;
-    width: 680px;
-    height: 400px;
-    /* margin-right: -30px;
-    margin-bottom: -30px;
-    border-bottom-right-radius: 50px; */
+.tag h3{
+    color: rgb(255, 0, 0);
 }
+
+pre code{
+    color: blue;
+    /* font-weight: bold; */
 }
