@@ -34,6 +34,8 @@ main{
 
 section{
     margin-bottom: 30px;
+    /* border: 2px solid black; */
+    /* border-radius: 50px; */
 }
 
 .tag{
@@ -47,3 +49,10 @@ pre{
     padding: 10px;
     overflow: auto;
 }
+
+/* #internet{
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+} */
