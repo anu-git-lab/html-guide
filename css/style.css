@@ -66,3 +66,16 @@ pre code{
     color: blue;
     /* font-weight: bold; */
 }
+
+.tag-row{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.tag{
+    width: 48%;
+    border: 2px solid blueviolet;
+    padding: 15px;
+    border-radius: 10px;
+}
